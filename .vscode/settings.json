@@ -1,0 +1,10 @@
+{
+  "python.testing.pytestEnabled": true,
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+  "ruff.enable": true,
+  "ruff.lintOnSave": true,
+  "jupyter.askForKernelRestart": false,
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "python.terminal.activateEnvironment": true
+}

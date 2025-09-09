@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.pyc
+**/.ipynb_checkpoints/
+
+# Local envs
+.venv/
+env/
+
+# Data des cours (ajuste si tu veux en suivre certaines)
+Biodynamics/**/data/
+Python-R-Git/**/data/
+Math/**/data/
+Project management/**/data/
+
+# Secrets
+**/.env

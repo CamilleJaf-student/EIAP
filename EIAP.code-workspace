@@ -1,0 +1,9 @@
+{
+  "folders": [
+    { "name": "Biodynamics", "path": "Biodynamics" },
+    { "name": "Python-R-Git", "path": "Python-R-Git" },
+    { "name": "Math", "path": "Math" },
+    { "name": "Project management", "path": "Project management" }
+  ],
+  "settings": {}
+}

@@ -1,0 +1,12 @@
+name: eiap
+channels: [conda-forge, defaults]
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - pytest
+  - black
+  - ruff
+  - python-dotenv
