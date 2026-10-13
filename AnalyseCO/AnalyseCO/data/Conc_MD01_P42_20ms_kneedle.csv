@@ -1,0 +1,5 @@
+manoeuvre,debut_P3,pente_P2,pente_P3,r2_P3,angle_alpha,duree_P3,methode
+Manoeuvre 1,43.913,0.3746,0.2073,0.9652,,3.448,kneedle
+Manoeuvre 2,72.313,0.118,0.0559,0.9844,,13.096,kneedle
+Manoeuvre 3,112.513,0.3637,0.1597,0.9917,,3.312,kneedle
+Manoeuvre 4,131.521,0.1626,0.0822,0.985,,13.792,kneedle

@@ -1,0 +1,5 @@
+manoeuvre,debut_P3,pente_P2,pente_P3,r2_P3,angle_alpha,duree_P3,methode
+Manoeuvre 1,31.367,0.3236,0.1359,0.9371,156.6,0.945,angle
+Manoeuvre 2,60.095,0.1236,0.051,0.9415,156.9,2.367,angle
+Manoeuvre 3,97.427,0.3311,0.1198,0.9946,153.5,0.504,angle
+Manoeuvre 4,124.31,0.1109,0.0329,0.8774,150.0,2.421,angle
