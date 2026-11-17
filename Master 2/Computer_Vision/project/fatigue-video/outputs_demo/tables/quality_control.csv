@@ -1,0 +1,7 @@
+session,condition,frames,detection_rate,box_available,sharp_ok,forehead_skin,eye_aspect_mean,eye_aspect_sd
+S01,rest,3600,1.0,1.0,1.0,1.0,1.0,0.0
+S01,effort,1800,1.0,1.0,1.0,0.999471444941483,1.0,0.0
+S01,recovery,3600,1.0,1.0,1.0,0.9975791974277816,1.0,0.0
+S02,rest,3000,1.0,1.0,1.0,1.0,1.0,0.0
+S02,effort,1500,1.0,1.0,1.0,0.9994894380180454,1.0,0.0
+S02,recovery,3000,1.0,1.0,1.0,0.9953800673587795,1.0,0.0

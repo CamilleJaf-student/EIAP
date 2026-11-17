@@ -1,0 +1,46 @@
+session,feature,t_half_s,note
+S1_v2,mouth_area,114.0,ok
+S1_v2,forehead_a,,no response
+S1_v2,head_jitter,22.0,ok
+S1_v2,br_mouth,,no data
+S1_v2,mouth_open_pct,114.0,ok
+S1_v2,cheek_a,,no response
+S1_v2,cheek_hue,20.0,ok
+S1_v2,cheek_sat,,> 300 s
+S1_v2,cheek_val,,no response
+S1_v2,shine_frac,14.0,ok
+S1_v2,glabella_grad,,no response
+S1_v2,flow_rigid,7.0,ok
+S1_v2,flow_nonrigid,8.0,ok
+S1_v2,blink_rate,54.0,ok
+S1_v2,hr_ecg,,no data
+S2_v1,mouth_area,,no data
+S2_v1,forehead_a,,no data
+S2_v1,head_jitter,,no data
+S2_v1,br_mouth,,no data
+S2_v1,mouth_open_pct,,no data
+S2_v1,cheek_a,,no data
+S2_v1,cheek_hue,,no data
+S2_v1,cheek_sat,,no data
+S2_v1,cheek_val,,no data
+S2_v1,shine_frac,,no data
+S2_v1,glabella_grad,,no data
+S2_v1,flow_rigid,,no data
+S2_v1,flow_nonrigid,,no data
+S2_v1,blink_rate,,no data
+S2_v1,hr_ecg,,no data
+S2_v2,mouth_area,147.0,ok
+S2_v2,forehead_a,2.0,ok
+S2_v2,head_jitter,19.0,ok
+S2_v2,br_mouth,,no data
+S2_v2,mouth_open_pct,149.0,ok
+S2_v2,cheek_a,4.0,ok
+S2_v2,cheek_hue,,no response
+S2_v2,cheek_sat,9.0,ok
+S2_v2,cheek_val,,no response
+S2_v2,shine_frac,14.0,ok
+S2_v2,glabella_grad,0.0,ok
+S2_v2,flow_rigid,8.0,ok
+S2_v2,flow_nonrigid,12.0,ok
+S2_v2,blink_rate,,> 300 s
+S2_v2,hr_ecg,106.0,ok

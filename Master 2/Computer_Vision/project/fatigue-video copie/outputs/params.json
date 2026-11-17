@@ -1,0 +1,71 @@
+{
+  "PARAMS": {
+    "det_width": 480,
+    "scale_factor": 1.1,
+    "min_neighbors": 5,
+    "min_face_frac": 0.2,
+    "full_search_every": 30,
+    "smooth_n": 9,
+    "max_hold_frames": 12,
+    "roi": {
+      "forehead": [
+        0.3,
+        0.08,
+        0.7,
+        0.22
+      ],
+      "cheek_l": [
+        0.14,
+        0.52,
+        0.34,
+        0.7
+      ],
+      "cheek_r": [
+        0.66,
+        0.52,
+        0.86,
+        0.7
+      ],
+      "mouth": [
+        0.27,
+        0.66,
+        0.73,
+        0.97
+      ]
+    },
+    "skin_cr": [
+      133,
+      180
+    ],
+    "skin_cb": [
+      77,
+      135
+    ],
+    "min_skin_frac": 0.2,
+    "ref_init_s": 2.0,
+    "mouth_dark_k": 0.3,
+    "flow_size": 128,
+    "sharp_rel_min": 0.5,
+    "ecg_band_hz": [
+      5.0,
+      15.0
+    ],
+    "rr_range_s": [
+      0.27,
+      2.0
+    ],
+    "rr_max_dev": 0.2,
+    "hr_max_gap_s": 3.0,
+    "rest_window_s": 120,
+    "effort_window_s": 60,
+    "recovery_window_s": 120,
+    "stage_window_s": 30,
+    "min_stage_s": 15,
+    "block_s": 10,
+    "min_valid_s": 7,
+    "n_boot": 2000,
+    "n_perm": 9999
+  },
+  "SEED": 42,
+  "DEMO": false
+}

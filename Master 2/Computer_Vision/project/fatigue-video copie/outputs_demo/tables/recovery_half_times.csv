@@ -1,0 +1,31 @@
+session,feature,t_half_s,note
+S01,mouth_area,,no data
+S01,forehead_a,26.0,ok
+S01,head_jitter,0.0,ok
+S01,br_mouth,,no data
+S01,mouth_open_pct,,no data
+S01,cheek_a,,no data
+S01,cheek_hue,,no data
+S01,cheek_sat,,no data
+S01,cheek_val,,no data
+S01,shine_frac,,> 300 s
+S01,glabella_grad,18.0,ok
+S01,flow_rigid,1.0,ok
+S01,flow_nonrigid,1.0,ok
+S01,blink_rate,,no response
+S01,hr_ecg,38.0,ok
+S02,mouth_area,26.0,ok
+S02,forehead_a,25.0,ok
+S02,head_jitter,2.0,ok
+S02,br_mouth,,no data
+S02,mouth_open_pct,48.0,ok
+S02,cheek_a,29.0,ok
+S02,cheek_hue,30.0,ok
+S02,cheek_sat,24.0,ok
+S02,cheek_val,25.0,ok
+S02,shine_frac,,> 300 s
+S02,glabella_grad,16.0,ok
+S02,flow_rigid,1.0,ok
+S02,flow_nonrigid,1.0,ok
+S02,blink_rate,10.0,ok
+S02,hr_ecg,39.0,ok

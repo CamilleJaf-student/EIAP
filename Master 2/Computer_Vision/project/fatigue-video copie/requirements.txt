@@ -1,0 +1,10 @@
+# Python >= 3.10 (tested with 3.13)
+opencv-python>=4.8,<5     # the Haar cascade XML files are shipped in cv2.data with OpenCV 4.x wheels (not with 5.x)
+numpy>=1.24
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.7
+openpyxl>=3.1             # reads data/tests.xlsx
+notebook>=7               # or jupyterlab / VS Code to open project.ipynb
+jupytext>=1.16            # optional: rebuild project.ipynb from project.py (tools/run_notebook.py)
+nbclient>=0.10            # optional: execute the notebook from the command line
